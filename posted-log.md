@@ -6,3 +6,4 @@ One line per card: date | slot | topic | headline | photo source. Check before c
 2026-11-23 | midday | Air pollution, clean air, Bangladesh | The air we share is making us sick. | Wikimedia: Air Pollution in Dhaka (Mirza Khalid, CC BY-SA 4.0)
 2026-11-23 | evening | Tazreen factory fire anniversary, garment worker safety (24 Nov) | They sewed our clothes. Remember their names. | Wikimedia: Garment factory in Bangladesh Women working (Tareq Salahuddin, CC BY 2.0)
 2026-11-24 | midday | World Sustainable Transport Day (26 Nov), Dhaka traffic, walkable cities | A city moving at walking speed. | Wikimedia: Cycle Rickshaws - High Court Street - Dhaka (Biswarup Ganguly, CC BY 3.0)
+2026-11-24 | evening | End child marriage, girls' education, Bangladesh (MICS 2025: 47.2% married before 18) | A schoolbag, not a wedding. | Wikimedia: A girl going to school (Zamil Rahman, CC BY 2.0)
